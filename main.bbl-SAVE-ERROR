@@ -1,0 +1,340 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{vukmirovic}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=f767ec850edddf7a57607ec74eccd8c4}{%
+           family={Vukmirovic},
+           familyi={V\bibinitperiod},
+           given={Nenad},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0fa3b21c928390b5d24656fbdeaae566}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lin-Wang},
+           giveni={L\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{fullhash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{fullhashraw}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{bibnamehash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{authorbibnamehash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{authornamehash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{authorfullhash}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \strng{authorfullhashraw}{dfe8ebb57ec05ca2c9b1b340805dead1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Physics}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{Quantum Dots: Theory}
+      \field{volume}{12}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 60}
+      \range{pages}{60}
+      \verb{urlraw}
+      \verb https://jcp.com/quantum-dots-theory
+      \endverb
+      \verb{url}
+      \verb https://jcp.com/quantum-dots-theory
+      \endverb
+    \endentry
+    \entry{bolivar}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1eed16e582fec3dadaef37f5d03155c1}{%
+           family={Rodriguez-Bolivar},
+           familyi={R\bibinithyphendelim B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f81b8cd27dd1500ca690486e8d69374a}{%
+           family={F.M.Gomez-Campos},
+           familyi={F\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=e3fad248eaae8288568529ce9da1a325}{%
+           family={J.E.Carceller},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{fullhash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{fullhashraw}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{bibnamehash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{authorbibnamehash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{authornamehash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{authorfullhash}{f33c3ad949c51d1d53be1daca82abe71}
+      \strng{authorfullhashraw}{f33c3ad949c51d1d53be1daca82abe71}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{number}{104309}
+      \field{title}{An atomistic-based correction of the effective-mass approach for investigating quantum dots}
+      \field{volume}{104}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1063/1.3021059
+      \endverb
+    \endentry
+    \entry{schenk}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=989452fa303679101f71be338658c298}{%
+           family={S.Schenk},
+           familyi={S\bibinitperiod}}}%
+        {{hash=ff342d62e4a2ae15a8948d086bcf91c6}{%
+           family={P.Schwab},
+           familyi={P\bibinitperiod}}}%
+        {{hash=63fd09728c834a12dfccd67fba1d4b68}{%
+           family={M.Dzierzawa},
+           familyi={M\bibinitperiod}}}%
+        {{hash=e1b29da76c6cf1d0335f65b978b2f24b}{%
+           family={U.Eckern},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c3d5f15244f7972ba540759a4932e9c}
+      \strng{fullhash}{13ef1a3109dc8c70fe153645e9845938}
+      \strng{fullhashraw}{13ef1a3109dc8c70fe153645e9845938}
+      \strng{bibnamehash}{2c3d5f15244f7972ba540759a4932e9c}
+      \strng{authorbibnamehash}{2c3d5f15244f7972ba540759a4932e9c}
+      \strng{authornamehash}{2c3d5f15244f7972ba540759a4932e9c}
+      \strng{authorfullhash}{13ef1a3109dc8c70fe153645e9845938}
+      \strng{authorfullhashraw}{13ef1a3109dc8c70fe153645e9845938}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{number}{11}
+      \field{title}{Density functional theory for a model quantum dot: Beyond the local-density approximation}
+      \field{volume}{83}
+      \field{year}{2010}
+      \field{pages}{115128}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevB.83.115128
+      \endverb
+    \endentry
+    \entry{mantashyan}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=54eb833270b837ed46a4e8a808566d7e}{%
+           family={Mantashian},
+           familyi={M\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8a1d5a1d5d7ece2fddf01f4e1f12a8cd}{%
+           family={Mantashyan},
+           familyi={M\bibinitperiod},
+           given={P.A.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=acd6e0c4c8cbe909888595da59b95e68}{%
+           family={Hayrapetyan},
+           familyi={H\bibinitperiod},
+           given={D.B.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{fullhash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{fullhashraw}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{bibnamehash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{authorbibnamehash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{authornamehash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{authorfullhash}{5a0c023081dc86998f766c3cbb849d6b}
+      \strng{authorfullhashraw}{5a0c023081dc86998f766c3cbb849d6b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Preprint}
+      \field{title}{Modelling of Quantum Dots with the Finite Element Method}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/arXiv.2212.02212
+      \endverb
+    \endentry
+    \entry{mora}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=bcdb13e9ffde6eb05bc3854da7bdf621}{%
+           family={Mora-Ramos},
+           familyi={M\bibinithyphendelim R\bibinitperiod},
+           given={M.E.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1e034941dd90e2a6fae7cabe3e76d8d5}{%
+           family={Aouami},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi El},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=55349f15b6b98c9ec4d420c961317b12}{%
+           family={Feddi},
+           familyi={F\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=506ad4e6ac87c34dd249038c3dbca9ac}{%
+           family={Radu},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=34355093039c85c2b9dc9305efefc5bf}{%
+           family={Restrepo},
+           familyi={R\bibinitperiod},
+           given={R.L.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9ec71ed853a76ce9b9dc6e668b140ed2}{%
+           family={Vinasco},
+           familyi={V\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38841f784190ba80cbfc59aa0cd2b523}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={A.L.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d0683f92d7dc0c5efab0b7d9dae9a7c}{%
+           family={Duque},
+           familyi={D\bibinitperiod},
+           given={C.A.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e46c4e7dfade7220ff94915d96f68693}
+      \strng{fullhash}{96bf853970ff727169cb15c00b1b9c98}
+      \strng{fullhashraw}{96bf853970ff727169cb15c00b1b9c98}
+      \strng{bibnamehash}{e46c4e7dfade7220ff94915d96f68693}
+      \strng{authorbibnamehash}{e46c4e7dfade7220ff94915d96f68693}
+      \strng{authornamehash}{e46c4e7dfade7220ff94915d96f68693}
+      \strng{authorfullhash}{96bf853970ff727169cb15c00b1b9c98}
+      \strng{authorfullhashraw}{96bf853970ff727169cb15c00b1b9c98}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heliyon}
+      \field{number}{1}
+      \field{title}{Donor impurity energy and optical absorption in spherical sector quantum dots}
+      \field{volume}{5}
+      \field{year}{2020}
+      \field{pages}{3194}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2020.e03194
+      \endverb
+    \endentry
+    \entry{lee}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2a8d945407942cc2347cb47780b29758}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Honyeon},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c36121d3bf0c007a29111caa716bb6a9}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Dongjin},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{fullhash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{fullhashraw}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{bibnamehash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{authorbibnamehash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{authornamehash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{authorfullhash}{54329855caae3e5ae6c0a1207f84b59c}
+      \strng{authorfullhashraw}{54329855caae3e5ae6c0a1207f84b59c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanomaterials}
+      \field{number}{3590}
+      \field{title}{Quantum Mechanical Analysis Based on Perturbation Theory of CdSe/ZnS Quantum-Dot Light-Emission Properties}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/nano12203590
+      \endverb
+    \endentry
+    \entry{mohamed}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=2b6c297f598121cdd472b408d24c9701}{%
+           family={Mohamed},
+           familyi={M\bibinitperiod},
+           given={Walied\bibnamedelimb A.\bibnamedelimi A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0f2ce94979f0a8d8955f390d2f3c4322}{%
+           family={El-Gawad},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Hala\bibnamedelima Abd},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1475c5c5e7689ad0cd8912cd0d78ac50}{%
+           family={Mekkey},
+           familyi={M\bibinitperiod},
+           given={Saleh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=755fbcdc9b2bbc6b58be53a3df9b8fb7}{%
+           family={Galal},
+           familyi={G\bibinitperiod},
+           given={Hoda},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2c3d71ad24f116f063ebdd970d610331}{%
+           family={Handal},
+           familyi={H\bibinitperiod},
+           given={Hala},
+           giveni={H\bibinitperiod}}}%
+        {{hash=85adc41d75d290fe6bb82089697ada9d}{%
+           family={Mousa},
+           familyi={M\bibinitperiod},
+           given={Hanan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=67d4630ea82469f75b15c90b9061a50e}{%
+           family={Labib},
+           familyi={L\bibinitperiod},
+           given={Ammar},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a6b9475ba3e0f3dcb41689c9f96a53d}
+      \strng{fullhash}{746208ae25de1823d666c9081312add6}
+      \strng{fullhashraw}{746208ae25de1823d666c9081312add6}
+      \strng{bibnamehash}{8a6b9475ba3e0f3dcb41689c9f96a53d}
+      \strng{authorbibnamehash}{8a6b9475ba3e0f3dcb41689c9f96a53d}
+      \strng{authornamehash}{8a6b9475ba3e0f3dcb41689c9f96a53d}
+      \strng{authorfullhash}{746208ae25de1823d666c9081312add6}
+      \strng{authorfullhashraw}{746208ae25de1823d666c9081312add6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanotechnology Reviews}
+      \field{title}{Quantum dots synthesis and future prospective applications}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{1926\bibrangedash 1940}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1515/ntrev-2021-0034
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{miller1}
+  \missing{miller2}
+  \missing{mohseni1}
+  \missing{pavlichenko1}
+  \missing{skubachevskii1}
+\endrefsection
+\endinput
+
