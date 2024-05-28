@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1715220764.3555 "main.bcf" "main.bbl" "main" 1715220826.09754 0
-  "literature.bib" 1715216301 4938 b3f3ee5a2f64c469f26c97725ed726d4 ""
-  "main.bcf" 1715220824 110266 2abed441a5b3aea596f40e4f2224daac "pdflatex"
+["biber main"] 1716885938.88872 "main.bcf" "main.bbl" "main" 1716887167.97381 0
+  "literature.bib" 1716883627 9412 0478a97af1bb3e365441ee33c8f14afe ""
+  "main.bcf" 1716887166 111387 70cbde608d4f572d743b8a21dbed6f7c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1715220807.48383 "d:/Sultan_diploma_template/main.tex" "main.pdf" "main" 1715220826.09932 0
-  "C:/Users/Султан/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714067359 89659 ef23699ec536309d879afb5ac5b9505e ""
+["pdflatex"] 1716887147.80165 "d:/Sultan_diploma_template/main.tex" "main.pdf" "main" 1716887167.97545 0
+  "C:/Users/Султан/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715906951 852444 8f34743df5b1272edd8c61737d37d8b1 ""
   "C:/Users/Султан/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/last1200.pk" 1713846950 28696 0e34fe3229023057e572364f42b14311 ""
   "C:/Users/Султан/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1200.pk" 1713846944 22644 72c4aad3ad01af31fbb9ff698c496542 ""
   "C:/Users/Султан/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk" 1713846939 27384 d969d5f3b27764daf33d2272fd6592a1 ""
@@ -57,6 +57,7 @@
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb" 1454503868 181681 afdfb6d755a50146ad5e9b8a84e6d0d4 ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-BoldItalic.pfb" 1454503870 192012 f75dba80f0f29f618392dd6f27508069 ""
@@ -175,11 +176,15 @@
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1700599895 12935 94a3291359b5f73ff1b19345a6983105 ""
   "C:/Users/Султан/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "code_highlight.tex" 1713795020 1638 171e0925cf572289a161b18db0c4066b ""
-  "d:/Sultan_diploma_template/main.tex" 1715220744 117844 df7438a5614e29d53ffdaa7f9f4c6833 ""
+  "d:/Sultan_diploma_template/main.tex" 1716887123 161987 e45062242a39fdb41398df19eaceda81 ""
   "diploma.sty" 1713795020 4016 8718b5fe8be2bf354ba87568244545be ""
   "images/1-fig.bolivar.png" 1715127473 75786 196cf316ae2e353a661a9cd332a02230 ""
   "images/10-fig.mohamed.png" 1715219349 48962 c9feda593f2c82ec094b92e8afa30e3c ""
   "images/11-fig.mohamed.png" 1715220013 349587 9a5d8bfd5f9671ca658bd8ea4e79e43c ""
+  "images/12-fig.cockins.png" 1716267429 395316 51326dead5bb73cb1145b67521e13d6b ""
+  "images/13-fig.van.png" 1716771232 32888 c27254fb0b640ac35f8a78590c017750 ""
+  "images/14-fig.vander.png" 1716780284 13509 36719c3283b78b0fa82e232e8398badf ""
+  "images/15-fig.gustavsson.png" 1716885757 242306 22756dab833a23700c71e01ae899ca6b ""
   "images/2-fig.bolivar.png" 1715129224 28686 63fd8be2d05a46e52bf3efc992387db8 ""
   "images/3-fig.mantashyan.png" 1715135603 270205 6bf40b83b61499e153743ed2fcbbbab5 ""
   "images/4-fig.mora.png" 1715203594 23863 a1fa586282a2d620f34fd3084e7a0f17 ""
@@ -188,12 +193,12 @@
   "images/7-fig.mohamed.png" 1715217704 85160 758e3c347fbda86ecb109fda58a47ec8 ""
   "images/8-fig.mohamed.png" 1715217971 597509 821cfc5a6dad3b5dd851c44cc24c47c5 ""
   "images/9-fig.mohamed.png" 1715218924 1242120 f1c83f6379e7a663793a1bccac64066c ""
-  "main.aux" 1715220824 22541 06f2e6291fb3fc402ecef78bf1672e5f "pdflatex"
-  "main.bbl" 1715220771 13546 0620a24149763deaacec34887c739a8b "biber main"
-  "main.out" 1715220824 5344 88aea83f5de975f9acbd7ade3b8b2123 "pdflatex"
-  "main.run.xml" 1715220824 2336 8af568e540dfd7da76c9bf80eebad872 "pdflatex"
-  "main.tex" 1715220744 117844 df7438a5614e29d53ffdaa7f9f4c6833 ""
-  "main.toc" 1715220824 4764 2f48dadbde94381b0e1154ecf1f8a2d6 "pdflatex"
+  "main.aux" 1716887166 29272 f5010eaaeb5052e2ae532019b97d70ec "pdflatex"
+  "main.bbl" 1716885955 28160 12a8821053e947831cd095de04997218 "biber main"
+  "main.out" 1716887166 6531 8643aa0d876a084495154b4194c0e451 "pdflatex"
+  "main.run.xml" 1716887166 2336 8af568e540dfd7da76c9bf80eebad872 "pdflatex"
+  "main.tex" 1716887123 161987 e45062242a39fdb41398df19eaceda81 ""
+  "main.toc" 1716887166 5423 7e4e40d6943c65b585abf0865804eae4 "pdflatex"
   "titlepage.tex" 1715117886 2306 6e7aaa1d0bf2749b6dcb58ec3dafd3e5 ""
   (generated)
   "main.aux"

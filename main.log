@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.25)  9 MAY 2024 05:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.25)  28 MAY 2024 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1059,7 +1059,12 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+Overfull \hbox (3.97734pt too wide) in paragraph at lines 35--35
+ [][] [][]\T2A/Tempora-TLF/m/n/14.4 Энергетические уров-ни кван-то-вых то-чек с несколь-ки-ми элек- 
+ []
+
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1080,13 +1085,13 @@ LaTeX Font Info:    Trying to load font information for TS1+Tempora-TLF on input
  (C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\Programs\MiKTeX\tex/latex/tempora\ts1tempora-tlf.fd
 File: TS1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for TS1/Tempora-TLF.
 )
-<images/1-fig.bolivar.png, id=200, 480.5955pt x 303.534pt>
+<images/1-fig.bolivar.png, id=202, 480.5955pt x 303.534pt>
 File: images/1-fig.bolivar.png Graphic file (type png)
 <use images/1-fig.bolivar.png>
 Package pdftex.def Info: images/1-fig.bolivar.png  used on input line 183.
 (pdftex.def)             Requested size: 426.79134pt x 269.55156pt.
  [13{C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tempora/tmp_ac5xuc.enc}]
-<images/2-fig.bolivar.png, id=211, 718.93594pt x 409.53pt>
+<images/2-fig.bolivar.png, id=213, 718.93594pt x 409.53pt>
 File: images/2-fig.bolivar.png Graphic file (type png)
 <use images/2-fig.bolivar.png>
 Package pdftex.def Info: images/2-fig.bolivar.png  used on input line 195.
@@ -1097,19 +1102,19 @@ Overfull \hbox (27.08418pt too wide) in paragraph at lines 212--212
  []
 
 [15 <./images/2-fig.bolivar.png>] [16] [17] [18] [19]
-<images/3-fig.mantashyan.png, id=267, 413.1435pt x 356.532pt>
+<images/3-fig.mantashyan.png, id=269, 413.1435pt x 356.532pt>
 File: images/3-fig.mantashyan.png Graphic file (type png)
 <use images/3-fig.mantashyan.png>
 Package pdftex.def Info: images/3-fig.mantashyan.png  used on input line 297.
 (pdftex.def)             Requested size: 426.79134pt x 368.32008pt.
  [20 <./images/3-fig.mantashyan.png>] [21]
-<images/4-fig.mora.png, id=285, 581.17125pt x 509.5035pt>
+<images/4-fig.mora.png, id=287, 581.17125pt x 509.5035pt>
 File: images/4-fig.mora.png Graphic file (type png)
 <use images/4-fig.mora.png>
 Package pdftex.def Info: images/4-fig.mora.png  used on input line 324.
 (pdftex.def)             Requested size: 426.79134pt x 374.1657pt.
  [22] [23 <./images/4-fig.mora.png>]
-<images/5-fig.mora.png, id=303, 508.90125pt x 472.164pt>
+<images/5-fig.mora.png, id=305, 508.90125pt x 472.164pt>
 File: images/5-fig.mora.png Graphic file (type png)
 <use images/5-fig.mora.png>
 Package pdftex.def Info: images/5-fig.mora.png  used on input line 338.
@@ -1120,7 +1125,7 @@ Overfull \hbox (68.0606pt too wide) detected at line 346
  []
 
 [24] [25 <./images/5-fig.mora.png>] [26] [27] [28]
-<images/6-fig.lee.png, id=333, 992.95969pt x 684.30656pt>
+<images/6-fig.lee.png, id=335, 992.95969pt x 684.30656pt>
 File: images/6-fig.lee.png Graphic file (type png)
 <use images/6-fig.lee.png>
 Package pdftex.def Info: images/6-fig.lee.png  used on input line 366.
@@ -1131,12 +1136,12 @@ Overfull \hbox (42.67911pt too wide) in paragraph at lines 366--367
  []
 
 [29] [30 <./images/6-fig.lee.png>] [31] [32]
-<images/7-fig.mohamed.png, id=364, 493.0922pt x 422.32782pt>
+<images/7-fig.mohamed.png, id=366, 493.0922pt x 422.32782pt>
 File: images/7-fig.mohamed.png Graphic file (type png)
 <use images/7-fig.mohamed.png>
 Package pdftex.def Info: images/7-fig.mohamed.png  used on input line 392.
 (pdftex.def)             Requested size: 369.88582pt x 316.81596pt.
-<images/8-fig.mohamed.png, id=367, 606.46574pt x 349.90726pt>
+<images/8-fig.mohamed.png, id=369, 606.46574pt x 349.90726pt>
 File: images/8-fig.mohamed.png Graphic file (type png)
 <use images/8-fig.mohamed.png>
 Package pdftex.def Info: images/8-fig.mohamed.png  used on input line 400.
@@ -1147,18 +1152,18 @@ Overfull \hbox (42.67911pt too wide) in paragraph at lines 400--401
  []
 
 [33] [34 <./images/7-fig.mohamed.png>] [35 <./images/8-fig.mohamed.png>]
-<images/9-fig.mohamed.png, id=389, 629.35126pt x 569.12625pt>
+<images/9-fig.mohamed.png, id=393, 629.35126pt x 569.12625pt>
 File: images/9-fig.mohamed.png Graphic file (type png)
 <use images/9-fig.mohamed.png>
 Package pdftex.def Info: images/9-fig.mohamed.png  used on input line 424.
 (pdftex.def)             Requested size: 426.79134pt x 385.94995pt.
-<images/10-fig.mohamed.png, id=392, 576.65437pt x 239.39438pt>
+<images/10-fig.mohamed.png, id=396, 576.65437pt x 239.39438pt>
 File: images/10-fig.mohamed.png Graphic file (type png)
 <use images/10-fig.mohamed.png>
 Package pdftex.def Info: images/10-fig.mohamed.png  used on input line 434.
 (pdftex.def)             Requested size: 426.79134pt x 177.18558pt.
  [36] [37 <./images/9-fig.mohamed.png> <./images/10-fig.mohamed.png>]
-<images/11-fig.mohamed.png, id=409, 757.32938pt x 512.66531pt>
+<images/11-fig.mohamed.png, id=413, 757.32938pt x 512.66531pt>
 File: images/11-fig.mohamed.png Graphic file (type png)
 <use images/11-fig.mohamed.png>
 Package pdftex.def Info: images/11-fig.mohamed.png  used on input line 446.
@@ -1168,14 +1173,55 @@ Overfull \hbox (5.78484pt too wide) in paragraph at lines 452--453
 [] []\T2A/Tempora-TLF/b/n/14.4 Ядерно--обо-ло-чеч-ные кван-то-вые точ-ки (CSQD)[] \T2A/Tempora-TLF/m/n/14.4 Кван-то-вые точ-ки с неболь-
  []
 
-[38 <./images/11-fig.mohamed.png>] [39] [40] [41
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.22}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.524 \section
-              {Р§РёСЃР»РµРЅРЅС‹Рµ РјРµС‚РѕРґС‹ Рё Р°Р»РіРѕСЂРёС‚РјС‹}] [42]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 536.
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 536.
+[38 <./images/11-fig.mohamed.png>] [39] [40]
+Overfull \hbox (4.47241pt too wide) in paragraph at lines 484--484
+|[]\T2A/Tempora-TLF/b/n/16 Энергетические уров-ни кван-то-вых то-чек с несколь-ки-ми элек-
+ []
+
+<images/12-fig.cockins.png, id=434, 403.5075pt x 283.0575pt>
+File: images/12-fig.cockins.png Graphic file (type png)
+<use images/12-fig.cockins.png>
+Package pdftex.def Info: images/12-fig.cockins.png  used on input line 490.
+(pdftex.def)             Requested size: 426.79134pt x 299.39163pt.
+[41] [42 <./images/12-fig.cockins.png>] [43]
+Overfull \hbox (0.73216pt too wide) in paragraph at lines 510--510
+|[]\T2A/Tempora-TLF/b/n/14.4 Линейные и нели-ней-ные оп-ти-че-ские свой-ства в сфе-ри-че-ских кван-
+ []
+
+[44]
+Overfull \hbox (337.21576pt too wide) in alignment at lines 522--524
+ [][][] []
+ []
+
+[45]
+Overfull \hbox (80.97958pt too wide) in alignment at lines 553--555
+ [][][] []
+ []
+
+[46]
+<images/13-fig.van.png, id=478, 348.1005pt x 227.6505pt>
+File: images/13-fig.van.png Graphic file (type png)
+<use images/13-fig.van.png>
+Package pdftex.def Info: images/13-fig.van.png  used on input line 563.
+(pdftex.def)             Requested size: 426.79134pt x 279.1157pt.
+ [47 <./images/13-fig.van.png>] [48]
+
+LaTeX Warning: Reference `vander' on page 49 undefined on input line 587.
+
+<images/14-fig.vander.png, id=495, 390.86024pt x 131.2905pt>
+File: images/14-fig.vander.png Graphic file (type png)
+<use images/14-fig.vander.png>
+Package pdftex.def Info: images/14-fig.vander.png  used on input line 591.
+(pdftex.def)             Requested size: 426.79134pt x 143.36421pt.
+[49] [50 <./images/14-fig.vander.png>] [51] [52]
+<images/15-fig.gustavsson.png, id=528, 621.07031pt x 344.78813pt>
+File: images/15-fig.gustavsson.png Graphic file (type png)
+<use images/15-fig.gustavsson.png>
+Package pdftex.def Info: images/15-fig.gustavsson.png  used on input line 644.
+(pdftex.def)             Requested size: 426.79134pt x 236.93602pt.
+ [53 <./images/15-fig.gustavsson.png>] [54] [55] [56]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 678.
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 678.
  (C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) (C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
@@ -1184,39 +1230,53 @@ File: lstlang1.sty 2024/03/11 1.10a listings language file
 File: lstlang1.sty 2024/03/11 1.10a listings language file
 ) (C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
-) [43] [44]
-Overfull \hbox (7.32079pt too wide) in alignment at lines 596--661
+) [57] [58]
+Overfull \hbox (7.32079pt too wide) in alignment at lines 738--803
  [] [] [] [] 
  []
 
-[45]
-Overfull \hbox (9.72078pt too wide) in alignment at lines 668--693
+[59]
+Overfull \hbox (9.72078pt too wide) in alignment at lines 810--835
  [] [] [] [] 
  []
 
-[46] [47] [48] (main.aux)
+[60] [61]
+Overfull \hbox (5.3855pt too wide) in paragraph at lines 870--870
+\T2A/Tempora-TLF/m/n/14.4 Perturbation Theory of CdSe/ZnS Quantum-Dot Light-Emission Propertiesї.
+ []
+
+
+Overfull \hbox (3.28313pt too wide) in paragraph at lines 870--870
+[]\T2A/Tempora-TLF/m/n/14.4 Walied A. A. Mohamed и др. ѕ  Quantum dots synthesis and future prospective
+ []
+
+[62] [63] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 88AEA83F5DE975F9ACBD7ADE3B8B2123;5344.
+(rerunfilecheck)             Checksum: 8643AA0D876A084495154B4194C0E451;6531.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25147 strings out of 474423
- 434355 string characters out of 5738414
+ 25266 strings out of 474423
+ 437290 string characters out of 5738414
  1980496 words of memory out of 5000000
- 46971 multiletter control sequences out of 15000+600000
- 599741 words of font info for 92 fonts, out of 8000000 for 9000
+ 47050 multiletter control sequences out of 15000+600000
+ 606138 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,15n,95p,4495b,2171s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\last1200.pk><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-BoldItalic.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (48 pages, 3720874 bytes).
+ <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1440.pk> <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1200.pk> <C:\Users\РЎСѓР»С‚Р°РЅ\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\last1200.pk><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Bold.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-BoldItalic.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Italic.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/tempora/Tempora-Regular.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/РЎСѓР»С‚Р°РЅ/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (63 pages, 4439675 bytes).
 PDF statistics:
- 752 PDF objects out of 1000 (max. 8388607)
- 190 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 891 PDF objects out of 1000 (max. 8388607)
+ 230 named destinations out of 1000 (max. 500000)
+ 244 words of extra memory for PDF output out of 10000 (max. 10000000)
 

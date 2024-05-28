@@ -31,14 +31,17 @@
 \contentsline {paragraph}{Структура квантовой точки.}{36}{paragraph*.31}%
 \contentsline {paragraph}{Ядерные квантовые точки}{38}{paragraph*.33}%
 \contentsline {paragraph}{Ядерно-оболочечные квантовые точки (CSQD)}{38}{paragraph*.35}%
-\contentsline {subsection}{\numberline {1.6}Раздел 2}{40}{subsection.1.6}%
 \contentsline {section}{\numberline {2}Теория и основные уравнения}{41}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Раздел 1}{41}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Раздел 2}{41}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Численные методы и алгоритмы}{42}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Раздел 1}{42}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Раздел 2}{42}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Программная реализация}{43}{section.4}%
-\contentsline {section}{\numberline {5}Результаты и обсуждение}{45}{section.5}%
-\contentsline {section}{Выводы}{47}{section*.36}%
-\contentsline {section}{Заключение}{47}{section*.37}%
+\contentsline {subsection}{\numberline {2.1}Энергетические уровни квантовых точек с несколькими электронами}{41}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Линейные и нелинейные оптические свойства в сферических квантовых точках}{44}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Транспорт заряда в квантовых точках}{46}{subsection.2.2}%
+\contentsline {paragraph}{Транспорт электронов через двойные квантовые точки.}{49}{paragraph*.38}%
+\contentsline {paragraph}{Электроны в квантовых точках: один за другим}{52}{paragraph*.44}%
+\contentsline {paragraph}{Структура квантовых точек}{55}{paragraph*.46}%
+\contentsline {section}{\numberline {3}Численные методы и алгоритмы}{56}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Раздел 1}{56}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Раздел 2}{56}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Программная реализация}{57}{section.4}%
+\contentsline {section}{\numberline {5}Результаты и обсуждение}{59}{section.5}%
+\contentsline {section}{Выводы}{61}{section*.47}%
+\contentsline {section}{Заключение}{61}{section*.48}%

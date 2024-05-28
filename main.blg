@@ -1,17 +1,19 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [1] Config.pm:311> INFO - Logfile is 'main.blg'
-[323] biber-MSWIN64:340> INFO - === 
-[415] Biber.pm:420> INFO - Reading 'main.bcf'
-[750] Biber.pm:994> INFO - Found 7 citekeys in bib section 0
-[795] Biber.pm:4463> INFO - Processing section 0
-[831] Biber.pm:4654> INFO - Looking for bibtex file 'literature.bib' for section 0
-[951] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1007] bibtex.pm:1519> INFO - Found BibTeX data source 'literature.bib'
-[1273] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1273] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1273] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
-[1273] Biber.pm:4289> INFO - No sort tailoring available for locale 'ru-RU'
-[1302] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1316] bbl.pm:779> INFO - Output to main.bbl
-[1317] Biber.pm:131> WARN - legacy month field 'December' in entry 'vukmirovic' is not an integer - this will probably not sort properly.
-[1317] Biber.pm:133> INFO - WARNINGS: 1
+[402] biber-MSWIN64:340> INFO - === 
+[547] Biber.pm:420> INFO - Reading 'main.bcf'
+[1721] Biber.pm:994> INFO - Found 13 citekeys in bib section 0
+[1839] Biber.pm:4463> INFO - Processing section 0
+[2040] Biber.pm:4654> INFO - Looking for bibtex file 'literature.bib' for section 0
+[4042] bibtex.pm:1713> INFO - LaTeX decoding ...
+[4979] bibtex.pm:1519> INFO - Found BibTeX data source 'literature.bib'
+[6463] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[6464] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[6464] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[6464] Biber.pm:4289> INFO - No sort tailoring available for locale 'ru-RU'
+[6560] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[6635] bbl.pm:779> INFO - Output to main.bbl
+[6637] Biber.pm:131> WARN - legacy month field 'December' in entry 'vukmirovic' is not an integer - this will probably not sort properly.
+[6637] Biber.pm:131> WARN - legacy month field 'May' in entry 'sonavane' is not an integer - this will probably not sort properly.
+[6637] Biber.pm:131> WARN - legacy month field 'May' in entry 'cockins' is not an integer - this will probably not sort properly.
+[6637] Biber.pm:133> INFO - WARNINGS: 3

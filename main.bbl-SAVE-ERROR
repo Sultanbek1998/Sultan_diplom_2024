@@ -329,12 +329,281 @@
       \verb 10.1515/ntrev-2021-0034
       \endverb
     \endentry
+    \entry{sonavane}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=8a317079b20308b04728db7949677e98}{%
+           family={Sonavane},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2c56f5e21c751c3811a39eae07e20c45}{%
+           family={Patil},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a662108e4098710ee8727851db5c5311}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Department of Electronics Engineering, Maharashtra Academy of Engineering, Alandi (Pune), State-Maharashtra (India)}%
+        {Department of Electronics \& Instrumentation Engineering, Indian School of Mines University, Dhanbad-826004, State-Jharkhand (India)}%
+      }
+      \strng{namehash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{fullhash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{fullhashraw}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{bibnamehash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{authorbibnamehash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{authornamehash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{authorfullhash}{8b4fcadf557d74cbd974d84c1ae83108}
+      \strng{authorfullhashraw}{8b4fcadf557d74cbd974d84c1ae83108}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Advanced Networking and Applications}
+      \field{month}{5}
+      \field{note}{Paper submitted: 24.02.2009 Accepted: 25.05.2009}
+      \field{number}{1}
+      \field{title}{Experimentation for Packet Loss on MSP430 and nRF24L01 Based Wireless Sensor Network}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{25\bibrangedash 29}
+      \range{pages}{5}
+      \keyw{Wireless Sensor Networks,MSP430,nRF24L01,Free Space Loss,battery lifetime,packet loss}
+    \endentry
+    \entry{mathe}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=67f423b2e0c352a0302e0a17e052ac6e}{%
+           family={Máthé},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fbadc33d4a01cd497f11852adb18fc9f}{%
+           family={Onyenegecha},
+           familyi={O\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=787afe88f4bcf077b7ac8294300e2f6b}{%
+           family={Farcaș},
+           familyi={F\bibinitperiod},
+           given={A.-A.},
+           giveni={A\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=b1318ef154fee546c502db29cdb3d5b3}{%
+           family={Pioraș-Țimbolmaș},
+           familyi={P\bibinithyphendelim Ț\bibinitperiod},
+           given={L.-M.},
+           giveni={L\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=9c31eb1a5b2e80089a5ad4b06601ea29}{%
+           family={Solaimani},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6b63e43cdda285ecc6b6e059fa58f81}{%
+           family={Hassanabadi},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{3}{%
+        {aNational Institute for Research}%
+        {Development of Isotopic}%
+        {Molecular Technologies, 67-103 Donat, 400293 Cluj-Napoca, Romania; bFaculty of Physics, Babeş-Bolyai University, 1 Kogǎlniceanu, 400084 Cluj-Napoca, Romania; cFaculty of Physical Sciences, Federal University of Technology Owerri, P.M.B 1526 Owerri Nigeria; dDepartment of Physics, Faculty of Mechanical Engineering, Qom University of Technology, 3718146645, Qom, Iran; eFaculty of Physics, Shahrood University of Technology, P. O. Box: 3619995161-316, Shahrood, Iran}%
+      }
+      \strng{namehash}{4bf78a154009713ca611142c04699e15}
+      \strng{fullhash}{7c67a017f807538df4e928130983c5a0}
+      \strng{fullhashraw}{7c67a017f807538df4e928130983c5a0}
+      \strng{bibnamehash}{4bf78a154009713ca611142c04699e15}
+      \strng{authorbibnamehash}{4bf78a154009713ca611142c04699e15}
+      \strng{authornamehash}{4bf78a154009713ca611142c04699e15}
+      \strng{authorfullhash}{7c67a017f807538df4e928130983c5a0}
+      \strng{authorfullhashraw}{7c67a017f807538df4e928130983c5a0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal Name}
+      \field{title}{Linear and nonlinear optical properties in spherical quantum dots: Inversely quadratic Hellmann potential}
+      \field{year}{2023}
+    \endentry
+    \entry{cockins}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=7c2ef25787d16e776d7f4e744babb35b}{%
+           family={Cockins},
+           familyi={C\bibinitperiod},
+           given={Lynda},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f6b929ab216076c8fe5769145d8aecb1}{%
+           family={Miyahara},
+           familyi={M\bibinitperiod},
+           given={Yoichi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aa314de7c93009fb285aab4436ef0bf6}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e687f67666d9dc4499eb432f58b31c46}{%
+           family={Clerk},
+           familyi={C\bibinitperiod},
+           given={Aashish\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0256e124cbb6e4afe63f837fb75c9dc2}{%
+           family={Grutter},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8ea44e4f60be5bffecb6a1d0835f424e}{%
+           family={Studenikin},
+           familyi={S\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a787ec3ec4d057d9f67a6dce10a48bac}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=364e220330e8b37b8b471edbc10f9937}{%
+           family={Sachrajda},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Department of Physics, McGill University, 3600 rue University, Montreal, Quebec, H3A 2T8, Canada}%
+        {Institute for Microstructural Sciences, National Research Council of Canada, Ottawa, Ontario K1A 0R6, Canada}%
+      }
+      \list{publisher}{1}{%
+        {National Academy of Sciences}%
+      }
+      \strng{namehash}{132dd7c9a503c34e274a8b2c1b942cad}
+      \strng{fullhash}{04810f783256745a777e2812e18e6b9a}
+      \strng{fullhashraw}{04810f783256745a777e2812e18e6b9a}
+      \strng{bibnamehash}{132dd7c9a503c34e274a8b2c1b942cad}
+      \strng{authorbibnamehash}{132dd7c9a503c34e274a8b2c1b942cad}
+      \strng{authornamehash}{132dd7c9a503c34e274a8b2c1b942cad}
+      \strng{authorfullhash}{04810f783256745a777e2812e18e6b9a}
+      \strng{authorfullhashraw}{04810f783256745a777e2812e18e6b9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{5}
+      \field{note}{Citations: 92, Reads: 188}
+      \field{title}{Energy Levels of Few Electron Quantum Dots Imaged and Characterized By Atomic Force Microscopy}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1073/pnas.0912716107
+      \endverb
+    \endentry
+    \entry{van}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7b18f593e14a9cec70e774f2c6aa9a93}{%
+           family={Van\bibnamedelima Wees},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={B.J.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e1c7a509c799280c6a9de329476d0c91}{%
+           family={Kouwenhoven},
+           familyi={K\bibinitperiod},
+           given={L.P.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5732f453eee3523c306f055cda880d48}{%
+           family={Van\bibnamedelimb der\bibnamedelima Enden},
+           familyi={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e496f7863f9a33de43719cb1de164c78}{%
+           family={Harmans},
+           familyi={H\bibinitperiod},
+           given={C.J.P.M.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e7d988f338ec696353c1298a0602466}{%
+           family={Timmering},
+           familyi={T\bibinitperiod},
+           given={C.E.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{88e78b8bcb3661c16b0ffe37425f4b3a}
+      \strng{fullhash}{306436cfad51b79f1882d74a18d46367}
+      \strng{fullhashraw}{306436cfad51b79f1882d74a18d46367}
+      \strng{bibnamehash}{88e78b8bcb3661c16b0ffe37425f4b3a}
+      \strng{authorbibnamehash}{88e78b8bcb3661c16b0ffe37425f4b3a}
+      \strng{authornamehash}{88e78b8bcb3661c16b0ffe37425f4b3a}
+      \strng{authorfullhash}{306436cfad51b79f1882d74a18d46367}
+      \strng{authorfullhashraw}{306436cfad51b79f1882d74a18d46367}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Superlattices and Microstructures}
+      \field{number}{2}
+      \field{title}{Electron transport through single and multiple quantum dots: The formation of a one-dimensional bandstructure}
+      \field{volume}{10}
+      \field{year}{1991}
+      \field{pages}{197}
+      \range{pages}{1}
+    \endentry
+    \entry{vander}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=cb8d279a7e5caf725fd16be9f1aac68f}{%
+           family={Van\bibnamedelimb der\bibnamedelima Wiel},
+           familyi={V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={W.G.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7ee310edbc035145486aea1084b7bd38}{%
+           family={De\bibnamedelima Franceschi},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fb572aefc31da22f88bd06459d6d0980}{%
+           family={Elzerman},
+           familyi={E\bibinitperiod},
+           given={J.M.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38d7d0733eab666252d2a47b9616628f}{%
+           family={Fujisawa},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3dd969beeeb3d448ad7f6be51ed5e91b}{%
+           family={Tarucha},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e1c7a509c799280c6a9de329476d0c91}{%
+           family={Kouwenhoven},
+           familyi={K\bibinitperiod},
+           given={L.P.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{e7bb7a65a1269cac2bb83d8f3a163fc0}
+      \strng{fullhash}{3b679d34df2ada3568ccd90c92df4bf9}
+      \strng{fullhashraw}{3b679d34df2ada3568ccd90c92df4bf9}
+      \strng{bibnamehash}{e7bb7a65a1269cac2bb83d8f3a163fc0}
+      \strng{authorbibnamehash}{e7bb7a65a1269cac2bb83d8f3a163fc0}
+      \strng{authornamehash}{e7bb7a65a1269cac2bb83d8f3a163fc0}
+      \strng{authorfullhash}{3b679d34df2ada3568ccd90c92df4bf9}
+      \strng{authorfullhashraw}{3b679d34df2ada3568ccd90c92df4bf9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of Modern Physics}
+      \field{number}{1}
+      \field{title}{Electron transport through double quantum dots}
+      \field{volume}{75}
+      \field{year}{2003}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
   \enddatalist
-  \missing{miller1}
-  \missing{miller2}
-  \missing{mohseni1}
-  \missing{pavlichenko1}
-  \missing{skubachevskii1}
 \endrefsection
 \endinput
 
